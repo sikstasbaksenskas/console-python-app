@@ -1,4 +1,4 @@
-# console_python_app
+# Console app for game character creation
 1. Download and install python https://www.python.org/downloads/release/python-381/
 2. Create an empty folder on your desktop and put main.py file in it
 3. Press WINDOWS+R
